@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Test_casa\T2\T2\bin\Debug\net9.0\T2.exe
+C:\Users\Admin\Desktop\Test_casa\T2\T2\bin\Debug\net9.0\T2.deps.json
+C:\Users\Admin\Desktop\Test_casa\T2\T2\bin\Debug\net9.0\T2.runtimeconfig.json
+C:\Users\Admin\Desktop\Test_casa\T2\T2\bin\Debug\net9.0\T2.dll
+C:\Users\Admin\Desktop\Test_casa\T2\T2\bin\Debug\net9.0\T2.pdb
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.sourcelink.json
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.dll
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\refint\T2.dll
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.pdb
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\T2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Test_casa\T2\T2\obj\Debug\net9.0\ref\T2.dll
